@@ -1,0 +1,20 @@
+{
+  "name": "auto_job",
+  "version": "1.0.0",
+  "description": "A Puppeteer project to apply to builtin jobs.",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "start": "node builtin.js"
+  },
+  "keywords": [
+    "puppeteer",
+    "automation",
+    "browser"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^22.6.4"
+  }
+}
